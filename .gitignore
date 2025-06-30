@@ -1,0 +1,21 @@
+.ds_store
+~/logs
+
+.env
+.venv
+venv/
+
+csv_files
+photo_tag_reports
+photo_tag_reports_db_DO NOT UPLOAD
+
+__pycache__/
+*.pyc
+*.sqlite
+*.zip
+
+1 Photo_tagger/3 data/inputs/
+DO NOT UPLOAD
+
+*.mp4
+1 Photo_tagger/3 data/inputs/
