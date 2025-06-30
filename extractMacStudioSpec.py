@@ -35,7 +35,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 KEYWORDS = [
-    "Mac Studio Apple"
+    "Mac Studio Apple M4 Max",
+    "Mac Studio Apple M3 Max",
+    "Mac Studio Apple M2 Max"
 ]
 
 URL = "https://www.apple.com/sg-edu/shop/refurbished/mac/mac-studio"
